@@ -32,10 +32,6 @@ It is built using HTML, CSS, and JavaScript with a modern UI and animations.
 
 ## 📂 Projects Included
 
-👉 Live: https://aaliya9051.github.io/todo-app/
-
----
-
 ### 🔹 Dashboard
 - Displays tasks, skills, and goals  
 - Includes charts using Chart.js  
