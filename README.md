@@ -14,8 +14,6 @@ It is built using HTML, CSS, and JavaScript with a modern UI and animations.
 
 - 👩‍💻 Personal portfolio homepage
 - 📂 Projects showcase
-- 📝 To-Do List App (with progress tracking)
-- 📊 Dashboard with charts
 - 🤖 AI-based Q&A section
 - 🌙 Dark theme UI
 - ✨ Smooth animations and effects
@@ -33,11 +31,6 @@ It is built using HTML, CSS, and JavaScript with a modern UI and animations.
 ---
 
 ## 📂 Projects Included
-
-### 🔹 To-Do App
-- Add, delete, and complete tasks  
-- Progress bar tracking  
-- Task filtering (All / Completed / Pending)
 
 👉 Live: https://aaliya9051.github.io/todo-app/
 
